@@ -19,7 +19,6 @@ I started a company some years ago intending to act as a conduit between entitie
 
 ![Business stakeholders](business.png)
 
-
 I have had prior exposure and training with Radio Spectrum Management in my first job in New Zealand working for Spark. It is here that I saw this gap that I wanted to address. Only when I joined Radio Spectrum Management, I quickly realized how deep the rabbit hole goes and that I have only scratched the surface. There are so many other radio licenced services that are crucial to effectively allowing access to the radio spectrum for New Zealanders. We find details of this services in the Public Information Brochure [PIB 38](https://www.rsm.govt.nz/assets/Uploads/documents/pibs/3eadde74f8/radio-licence-certification-rules-pib-38.pdf)
 - Fixed services
 - Land Mobile services
