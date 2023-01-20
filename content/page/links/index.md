@@ -7,9 +7,9 @@ links:
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
-        weight: 4
+        weight: 5
         params:
-            icon: link
+            icon: messages
 
 comments: false
 ---
@@ -22,12 +22,10 @@ This page's frontmatter:
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
+    website: https://github.com/StoianAndrei/baby_tracker
+    
+  - title: GitHub page made with Hugo and delivered trough Docker
+    description: My attemt of rebuilding my website
+    website: https://github.com/StoianAndrei/spectrumefficiency_v1
     image: ts-logo-128.jpg
 ```
-
-`image` field accepts both local and external images.

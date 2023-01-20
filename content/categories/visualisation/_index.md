@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: visualisation
+description: this is the space of the place
 image:
 
 # Badge style
